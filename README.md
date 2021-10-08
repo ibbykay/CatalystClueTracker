@@ -30,7 +30,7 @@ By default, the app will show the item history, or the list of items received fr
 
 Clicking the header (Where it shows "Catalyst Clue History") will change the display to clues totals.
 
-![menu](/readme-assets/ClueTotals.png)
+![menu](/readme-assets/ClueTotals.png?)
 
 This shows the total amount of each clues acquired via Catalyst of alteration.
 
