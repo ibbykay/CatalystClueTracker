@@ -6,11 +6,11 @@ Have your expectations below your expecations :)
 
 Install by copying this either copy pasting the following link in your browser.
 
-alt1://addapp/https://ibbykay/CatalystClueTracker/appconfig.json
+alt1://addapp/https://github.com/ibbykay/CatalystClueTracker/appconfig.json
 
 Or, by going to the following link in the Alt1 Browser
 
-https://ibbykay/CatalystClueTracker/
+https://github.com/ibbykay/CatalystClueTracker/
 
 ## Instructions:
 
