@@ -92,7 +92,7 @@ function showItems() {
     let total = getTotal();
     Object.keys(total).sort().forEach(item => $(".itemList").append(`<li class="list-group-item">${item}: ${total[item]}</li>`))
   } else {
-    $(".itemList").append(`<li class="list-group-item header" data-show="total" title="Click to show Totals">Bik Clue History</li>`);
+    $(".itemList").append(`<li class="list-group-item header" data-show="total" title="Click to show Totals">Catalyst Clue History</li>`);
     saveData.slice().reverse().map(item => {
       $(".itemList").append(`<li class="list-group-item" title="${new Date(item.time).toLocaleString()}">${item.item}</li>`)
     })
