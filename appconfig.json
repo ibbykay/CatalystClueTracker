@@ -1,0 +1,14 @@
+{
+  "appName": "CatalystClueTracker",
+  "description": "Tracks Catalyst Clues Drops as they appear in the chat box.",
+  "appUrl": "./index.html",
+  "configUrl": "./appconfig.json",
+  "iconUrl": "./readme-assets/icon.png",
+  "defaultWidth": 218,
+  "defaultHeight": 139,
+  "minWidth": 218,
+  "minHeight": 139,
+  "requestHandlers": [],
+  "activators": [],
+  "permissions": "pixel,gamestate,overlay"
+}
