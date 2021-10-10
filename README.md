@@ -49,3 +49,6 @@ This app will detect all visible chat windows. You can use this option to have t
 ### Factory Reset
 
 - This can be used to fully reset everything on the app. Bringing back to a "fresh install" state.
+
+### Credits
+Thanks to ZeroGwafa as 99% of the code is based off his project
